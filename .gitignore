@@ -1,8 +1,16 @@
-
 # Development files
 dist/
 node_modules/
 
+# IDE
+.idea/
+
 # Log files
 *.log
 
+# Build files
+target/
+
+# Etc
+datetime.txt
+.DS_Store
